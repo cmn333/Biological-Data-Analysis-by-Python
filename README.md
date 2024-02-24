@@ -2,7 +2,7 @@
 
 ## Data
 The dataset is originally from the National Institute of Diabetes and Digestive and Kidney Diseases. All patients here are females at least 21 years old of Pima and Indian heritage.
-###Data attributes:
+### Data attributes:
 Pregnancies: Number of times pregnant
 Glucose: Plasma glucose concentration a 2 hours in an oral glucose tolerance test
 BloodPressure: Diastolic blood pressure (mm Hg)
